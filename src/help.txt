@@ -1,0 +1,1 @@
+This directory consists source code used in project.
